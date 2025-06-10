@@ -17,3 +17,4 @@ let flag=false;
 // symbol => unique
 
 console.log(typeof null);
+console.log(typeof age);
