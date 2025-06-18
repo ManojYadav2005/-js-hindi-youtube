@@ -20,7 +20,7 @@ map.set('IN',"INDIA")
 map.set('USA',"United state of america")
 map.set('Fr',"France")
   //console.log(map);
-
+// forof loop
     // for (const key of map) {
     //  console.log(key);
         
